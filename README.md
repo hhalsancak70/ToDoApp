@@ -12,11 +12,6 @@ A simple and modern cross-platform To-Do List application built with Flutter. Th
 - Task creation date display
 - Error handling for empty task input
 
-## Screenshots
-
-<!-- Add your screenshots here -->
-<!-- Example: -->
-<!-- ![Home Screen](screenshots/home.png) -->
 
 ## Getting Started
 
@@ -52,10 +47,5 @@ You can run the app on Android, iOS, web, macOS, Windows, or Linux.
 - [intl](https://pub.dev/packages/intl) (^0.18.1) - For date formatting
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons) (^1.0.8)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 *Feel free to contribute or open issues to improve this app!*
